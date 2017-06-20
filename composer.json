@@ -1,8 +1,8 @@
 {
-    "name": "didiyuesao/app",
+    "name": "nuke2015/app",
     "description": "didiyuesao and jiajiayuesao api competons for all service",
     "keywords": ["jiajiayuesao.com", "jjys168.com", "ddys168.com", "jiajiamuying.com"],
-    "homepage": "https://www.didiyuesao.com",
+    "homepage": "https://m.jjys168.com",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
