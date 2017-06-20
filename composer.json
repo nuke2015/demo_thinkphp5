@@ -1,0 +1,17 @@
+{
+    "name": "didiyuesao/app",
+    "description": "didiyuesao and jiajiayuesao api competons for all service",
+    "keywords": ["jiajiayuesao.com", "jjys168.com", "ddys168.com", "jiajiamuying.com"],
+    "homepage": "https://www.didiyuesao.com",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "nuke2015",
+            "email": "196971567@qq.com"
+        }
+    ],
+    "require": {
+        "topthink/framework": "5.0.9"
+    }
+}
